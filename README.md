@@ -1,4 +1,4 @@
-# Tailoring_App_UI
+# Tailoring_App_UI(FIGMA)
 
 ![Tailor_App_UI](https://github.com/NikitaKhuspe1729/Tailoring_App_UI/assets/125488086/179f0fdf-291e-4ced-8ef1-54df858f45e9)
 # Pages
